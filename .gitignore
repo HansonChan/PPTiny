@@ -1,0 +1,76 @@
+# macOS / Finder
+.DS_Store
+Icon?
+._*
+
+# SwiftPM / build outputs
+.build/
+.swiftpm/
+DerivedData/
+dist/*
+!dist/*.zip
+*.app/
+*.dSYM/
+
+# Local Codex / editor state
+.codex/
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs / temp
+*.log
+tmp/
+temp/
+*.tmp
+
+# Local secrets / signing material
+.env
+.env.*
+!.env.example
+*.p12
+*.cer
+*.mobileprovision
+*.provisionprofile
+*.key
+*.pem
+
+# Private presentation inputs and generated decks
+*.ppt
+*.pptx
+*.pptm
+*.key
+*.pdf
+*.pages
+*.doc
+*.docx
+*.xls
+*.xlsx
+
+# Large/local media samples
+*.mov
+*.mp4
+*.m4v
+*.avi
+*.mkv
+*.wav
+*.mp3
+*.m4a
+*.aac
+
+# Generated preview/output folders from local experiments
+outputs/
+*.old.pptx
+*.tiny.pptx
+*.tiny-*.pptx
+Assets/AppIcon/*.iconset/
+
+# Legacy local PPT skill workspace, not part of PPTiny app source
+Skill.md
+powerpoint-design-architect/
+ppt-grid-layout/
+
+# Keep source-controlled app assets explicit.
+!Assets/AppIcon/PPTiny.icns
+!Assets/AppIcon/PPTiny-icon-preview.png
