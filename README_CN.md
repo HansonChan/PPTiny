@@ -1,5 +1,7 @@
 # PPTiny
 
+[下载App](https://github.com/HansonChan/PPTiny/raw/main/dist/PPTiny-1.0.0-arm64.zip)
+
 PPTiny 是一个用于一键压缩 PowerPoint 文件的轻量 macOS 应用。
 
 当前版本：`1.0.0`

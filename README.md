@@ -4,6 +4,8 @@
 
 [EN](https://github.com/HansonChan/PPTiny/blob/main/README.md) | [中文](https://github.com/HansonChan/PPTiny/blob/main/README_CN.md)
 
+[Download App](https://github.com/HansonChan/PPTiny/raw/main/dist/PPTiny-1.0.0-arm64.zip)
+
 PPTiny is a small macOS app for one-click PowerPoint compression.
 
 Current version: `1.0.0`
